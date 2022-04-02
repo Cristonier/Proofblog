@@ -7,3 +7,5 @@ Ahora está aprendiendo Git.
 Está muy emocionado.
 
 Hoy hablaremos de su vida.
+
+Nunca pares de aprender.
