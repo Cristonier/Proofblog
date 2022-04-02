@@ -4,3 +4,5 @@ Tienen 21 años y le facina la tecnología. Vive en Huanta/Ayacucho/Perú.
 
 Ahora está aprendiendo Git.
 
+Está muy emocionado.
+
